@@ -1,3 +1,8 @@
+# team member names:Kyle, bryan, Gabby
+# purpose: to read the ADC of the sensor and convert it into volts
+# Started:09/16/2026
+# last updated:09/16/2026
+# explanation of AI use: used to generate a code based on instructions to complete task
 
 # Arduino Nano ESP32 + LM393 Rain Sensor
 # Analog output connected to A2 / GPIO3
