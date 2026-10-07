@@ -17,3 +17,5 @@ rainsensor folder- made 9/16, made rain sensor and conducted tests and recorded 
 plant watering project folder- made 9/23, tested the humidity sensor 
 
 prototype project- made 9/28,  code to test if either sensor detects significant moisture, move the servo motor 90 degrees. when moisture is no longer detected, return the servo to 0 degrees. 
+
+prototype presentation pdf- uploaded 10/6
